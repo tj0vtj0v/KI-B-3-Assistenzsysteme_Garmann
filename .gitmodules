@@ -1,0 +1,3 @@
+[submodule "speech-assistant"]
+	path = speech-assistant
+	url = git@mygit.th-deg.de:kz20421/speech-assistant.git
